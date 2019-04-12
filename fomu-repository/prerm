@@ -1,0 +1,20 @@
+#!/bin/sh
+set -e
+
+. /usr/share/debconf/confmodule
+
+available()
+{
+        command -v "$1" >/dev/null 2>&1
+}
+
+case "$1" in
+    purge)
+        rm -f /etc/apt/sources.list.d/fomu.list
+        APT_KEY_DONT_WARN_ON_DANGEROUS_USAGE=true
+        export APT_KEY_DONT_WARN_ON_DANGEROUS_USAGE
+        apt-key del "2B12 60D7 D1CF 7C77 92BF 7C18 BABA 3D5D A922 0104"
+        ;;
+esac
+
+exit 0

@@ -13,6 +13,22 @@ Description: Fomu SPI/Bitstream flashing for Raspberry Pi
  Fomu Flash lets you program a bitstream for an ICE40, or
  program the SPI flash attached to the board.
 
+Package: fomu-repository
+Version: 1.0
+Architecture: armhf
+Maintainer: Tomu Maintainers <tomu@tomu.im>
+Depends: gnupg
+Priority: optional
+Section: base
+Filename: pool/main/f/fomu-repository/fomu-repository_1.0_armhf.deb
+Size: 3650
+SHA256: 84adcbdb970ef920fb258eaebf441625e8ba2cc83f6ac1021a7544ddb72924d7
+SHA1: ad5abe7f5a8c6c9ea1cd4eea8cde61d698e9cd26
+MD5sum: 9cabed11dadacede301c8f8db1c582e5
+Description: Fomu package repository
+ A collection of packages built for working with Fomu
+ on a Raspberry Pi.
+
 Package: icestorm
 Version: 0.0.2-fa1c932452e8efe1dfcc6ff095e3f7130a7906b1
 Architecture: armhf
