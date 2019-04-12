@@ -1,0 +1,5 @@
+Component: main
+Origin: repo.fomu.im/debian
+Label: repo.fomu.im/debian
+Architecture: armhf
+Description: Fomu Raspberry Pi support images

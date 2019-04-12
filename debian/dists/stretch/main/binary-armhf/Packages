@@ -1,0 +1,86 @@
+Package: fomu-flash
+Version: 1.3.2
+Architecture: armhf
+Maintainer: Sean Cross <sean@xobs.io>
+Priority: optional
+Section: base
+Filename: pool/main/f/fomu-flash/fomu-flash_1.3.2_armhf.deb
+Size: 36176
+SHA256: e49eb4c0f49e90f2d0136d168d345db90d47396f141ea00219a513c1b9cb182b
+SHA1: 28bca0393d33b1a6649d77af80b86e7cb97d41c4
+MD5sum: 4d960d0e958120f3f806b329f1712ecd
+Description: Fomu SPI/Bitstream flashing for Raspberry Pi
+ Fomu Flash lets you program a bitstream for an ICE40, or
+ program the SPI flash attached to the board.
+
+Package: icestorm
+Version: 0.0.2-fa1c932452e8efe1dfcc6ff095e3f7130a7906b1
+Architecture: armhf
+Maintainer: Sean Cross <sean@xobs.io>
+Priority: optional
+Section: base
+Filename: pool/main/i/icestorm/icestorm_0.0.2-fa1c932452e8efe1dfcc6ff095e3f7130a7906b1_armhf.deb
+Size: 8555530
+SHA256: 372764fd30aa4852902d5e204aa0fafb44e55bf8377cbeb317f84731a8920f96
+SHA1: 21293118fde469500c01d7585fe37ab056522882
+MD5sum: 690ccf40a1bb58d14f072b61fd6f604f
+Description: icestorm packaged for Fomu
+ This is an upstream build of icestorm, specially packaged for Fomu.
+
+Package: lm32-toolchain
+Version: 8.3.0-fomu
+Architecture: armhf
+Maintainer: Sean Cross <sean@xobs.io>
+Priority: optional
+Section: base
+Filename: pool/main/l/lm32-toolchain/lm32-toolchain_8.3.0-fomu_armhf.deb
+Size: 23844364
+SHA256: b0a028baee90d63dd2236b7d3c7cb76a3e2494c97efc91b058f0c7144d0fcc83
+SHA1: 50e52ba09c947859a06b429a79a9194920fd82af
+MD5sum: 7bc9c0ea8971065e3be757fa03389a06
+Description: lm32 toolchain packaged for Fomu
+ This is an upstream build of lm32, specially packaged for Fomu.
+
+Package: nextpnr-ice40
+Version: 0.0.3-6adf37e3c1d4301e087d89c9e9c37563fe8d78df
+Architecture: armhf
+Maintainer: Sean Cross <sean@xobs.io>
+Priority: optional
+Section: base
+Filename: pool/main/n/nextpnr-ice40/nextpnr-ice40_0.0.3-6adf37e3c1d4301e087d89c9e9c37563fe8d78df_armhf.deb
+Size: 32240390
+SHA256: 8a26971944d46b5dd8c03d3f7a0c77a62575103d99fb67ae63d96eb8db6027d3
+SHA1: 36bd3c29d0990611d8e8ef161a34f62806df11c7
+MD5sum: b8278cfe65642459db0345be49f6bb2c
+Description: nextpnr-ice40 packaged for Fomu
+ This is an upstream build of nextpnr, specially packaged for Fomu.
+
+Package: riscv-toolchain
+Version: 8.2.0-before-fsf-gdb-2-g411d134
+Architecture: armhf
+Maintainer: Sean Cross <sean@xobs.io>
+Priority: optional
+Section: base
+Filename: pool/main/r/riscv-toolchain/riscv-toolchain_8.2.0-before-fsf-gdb-2-g411d134_armhf.deb
+Size: 24453548
+SHA256: 604001d283267aac6417e192b40de6d78e0b164c394ab68893da3107f7fa2fad
+SHA1: 4e28044eb70c503833b9595210b2735fd28f56b7
+MD5sum: d360ea6d42c62ae8e9222bc634ef05d9
+Description: riscv toolchain packaged for Fomu
+ This is an upstream build of riscv, specially packaged for Fomu.
+
+Package: yosys
+Version: 0.8-615-gdfb242c9
+Architecture: armhf
+Maintainer: Sean Cross <sean@xobs.io>
+Depends: libtcl8.6 (>= 8.6)
+Priority: optional
+Section: base
+Filename: pool/main/y/yosys/yosys_0.8-615-gdfb242c9_armhf.deb
+Size: 5944982
+SHA256: 43defc03a312a86a7b4723462131d77d26745cb082e9d409363d25b7d3bd7fa1
+SHA1: 9fa94f56f9d8a36e7c06b594cfa09058b1774884
+MD5sum: f8624027cdade74a1de385a0c3a88eb7
+Description: Yosys packaged for Fomu
+ This is an upstream build of Yosys, specially packaged for Fomu.
+
