@@ -3,6 +3,7 @@
 To use this, create a sources.list entry:
 
 ```sh
+$ sudo mount -oremount,rw /
 $ echo 'deb https://repo.fomu.im/debian/ stretch main' | sudo tee /etc/apt/sources.list.d/fomu.list
 $ wget -O - https://repo.fomu.im/tomu-signing-key.asc | sudo apt-key add -
 ```
