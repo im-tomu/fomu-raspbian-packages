@@ -4,7 +4,7 @@ To use this, create a sources.list entry:
 
 ```sh
 $ echo 'deb https://repo.fomu.im/debian/ stretch main' | sudo tee /etc/apt/sources.list.d/fomu.list
-$ wget -O - https://repo.fomu.im/tomu-signing-key.asc | apt-key add -
+$ wget -O - https://repo.fomu.im/tomu-signing-key.asc | sudo apt-key add -
 ```
 
 Or, install the fomu-repository package from https://repo.fomu.im/fomu-repository-latest.deb
@@ -33,4 +33,5 @@ $
 ```sh
 $ reprepro --basedir $(pwd)/debian includedeb stretch ${PACKAGE_FILE}.deb
 Exporting indices...
+$
 ```

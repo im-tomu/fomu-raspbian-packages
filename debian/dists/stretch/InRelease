@@ -4,36 +4,45 @@ Hash: SHA256
 Origin: repo.fomu.im/debian
 Label: repo.fomu.im/debian
 Codename: stretch
-Date: Fri, 12 Apr 2019 05:48:09 UTC
+Date: Sun, 14 Apr 2019 01:55:12 UTC
 Architectures: armhf
 Components: main
 Description: Fomu Raspberry Pi support images
 MD5Sum:
- 6b301f7038cf0f8b7fd4e1c59f9f2e5c 3679 main/binary-armhf/Packages
- 6ff35cae35801a87b901eee701487865 1405 main/binary-armhf/Packages.gz
+ 5b7e6755fc51ab553f9dd27fe9a9afd4 4787 main/binary-armhf/Packages
+ c0203c2d97aed2f11e6db95ced456a80 1987 main/binary-armhf/Packages.gz
  f51257227ba0028e2dc0057b110c596a 137 main/binary-armhf/Release
+ 68b91206823e46a3538805299cdd1817 1241 main/source/Sources
+ 40d0c5619a5a7ff28ad0538cbcacf85d 671 main/source/Sources.gz
+ 81ad74fa518f03b217ea9bb66105ac1a 138 main/source/Release
 SHA1:
- 6fa6c8216ae5bd12adfffab91a3012e5bf696f40 3679 main/binary-armhf/Packages
- 4da9422f50fb5a9703197617badba84fc5ebd541 1405 main/binary-armhf/Packages.gz
+ 715c59f46a28b37a8bbbbd6dd9456a0a2672a393 4787 main/binary-armhf/Packages
+ 4a9c51492e53024ab502344447b3164b3ab23d93 1987 main/binary-armhf/Packages.gz
  c10a9d604b2544e3edc37e00e40fec48ad8648bc 137 main/binary-armhf/Release
+ 042e10afed33e969b8ce8f348c5d933a5fc2cdad 1241 main/source/Sources
+ ffb1c62e950d1c487e9162e7ba611177230c7f09 671 main/source/Sources.gz
+ 2612a6d294c9e82ff044b6f6b8858f9379368e1f 138 main/source/Release
 SHA256:
- ff34084b18e280f34890055c96b9ae26c36d2aab3ef7e31d8164dfd111ea5925 3679 main/binary-armhf/Packages
- e4f89ba0f1862c843a74588551c0014f7a878cce4c62f291bd23991ecceb0730 1405 main/binary-armhf/Packages.gz
+ c5319a571103aa975a200a376fe9446039d112450a16b64c92dab035f2498f06 4787 main/binary-armhf/Packages
+ 83a31bc3632ddbcc1c516dc5fdb89b1912b8b10c764165975b5262385585eb4d 1987 main/binary-armhf/Packages.gz
  3eac612bbb2fbddbf64eaf1499e546d99230dca567f26a4a695b2d25ea13d750 137 main/binary-armhf/Release
+ 0ebc9b94cd76082efeddecf83ffdf587b83161fa326d475d6d661c1920bae847 1241 main/source/Sources
+ 7e1dd42dbfd560aea2fe039556575819d8a9f3cb203e0f103a3e77af079196e4 671 main/source/Sources.gz
+ e5a3f2255f5852df3a340c0e4dd5d67733d20a7e31fe01b1d62cb868efd3046e 138 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJcsCaaAAoJELq6PV2pIgEEgYQP+gPusKwYtwxKBEts1od130lK
-nAV5qGEFjjZu6kO7FiytSUDi0AzHFhXZkjvE6llVEJs1fHUlAafj6ttFrrghugJi
-UkuBYr71eYVaLt/SmnHagfOZbnJ3orZpFAqjsHPyszwq4vuS7IWTrIidpKEe160X
-9tbA4V4hzbVmt1+fZ5d/2apkQtx7TkU+wviQSXlEmpw+JtX6qb6BB3TPOb1yJ3pG
-xvqM3PYB3fA2poMqTwj3sWLdPbVDU+ycsxcwHrqyTQcPUKq/h4bWdumajv9v8ifO
-fK/BQB5fEOsTL6kt8JuQvs5dYq8y6uBmifDTfMuI7LKytlZXB2KWBRujCeSLRoh4
-ycyv6FPbXonTTmrFMCyAAoX18c30/r5Hs7XxgHefFXrZ7JOl2Gv8oDXHt5LiTrvq
-EXo7+UpKzid2IVkw5b9/zhLMFzU1xa5XKPBtyxhYyP9jasEsvNJ3wuzggUfrTbUE
-Qhejc3xzRWZYb8tw/qtQxH1zGISBAeHoEDbTuqpV9n6M4jJh+lk4Vc3Ia5Lk1chC
-mttkxWyizA4p3sYZgo9CCqRNjR4KyDZQG+aloQx01349gcQVMzR9T2psSUYA5LHI
-QWUbEWHt+SZigww9yvxAKK0NXqW0iBuZvvEz5U0I6Hf1c2a44WdmSRI82A9UbK+w
-i0rbokUKS6/WSq7xUOwn
-=dqBe
+iQIcBAEBCAAGBQJcspMAAAoJELq6PV2pIgEE5h0P/REwt2vMl/2lckNIEPBkCysb
+rcE2fD2Jiu3kjow5Aw6OS9aU71g+OnHt+nyZoPa6i5iuB1QtedeDBVbyHhoiTMRm
+Kc6xaLpy18lMcpT8t5ylFTHXMCiuqks3JdcUQADFlUjsevnMQEGfehQ/GdTW85YS
+G6/c+sAKpAQwoMBZrY52/U18ByGeivJzuWTnwBWZh5EOwx3YANgTW7GFf68VweVt
+hbg9Wuc62Jqtgig2VVzsLTIJ+sNAZImSuqoTEzfrF5wD3DVLy15SMyU3Qun/M7iJ
+ZurDGMCHhGqekfVejltlfcRW+xvpqJh693CVEEHTIz/7FfGzDOeKe/D95K8iGXpH
+k4TNmyDIc1XNRmPsNbJh/7HKMfYhyWFZ9n7H4PPLA3yHnb4VuNhViPqmQ7FYa+sa
+PTY8T55npheyXKGpTCWjp0HK2pK5S0CbLNqa9CZnS3gK3nCz0HhNmOPwDfVkQYLJ
+kMR4ehixGhGTRzpP4/v4E1NaX42SUIJlTxZ4tb1P3ovujlkB8EiOQJmlYFYg/fAi
+LNWP/1yDLOOeYU83wtdSiy1gTgh8Bfs0WN6S/wwRNsdfKTck6oIAHDbJluVmsUf1
+cF92DwsrES670NQAH7ilUrcBd3Wt+Au/uwR38eOGZTEZ5v3BvFRSEraokwsejfnE
+6nxhd85VNIIa4JiBgM83
+=+sZq
 -----END PGP SIGNATURE-----

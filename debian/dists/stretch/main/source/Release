@@ -1,7 +1,5 @@
+Component: main
 Origin: repo.fomu.im/debian
 Label: repo.fomu.im/debian
-Codename: stretch
-Architectures: armhf source
-Components: main
+Architecture: source
 Description: Fomu Raspberry Pi support images
-SignWith: B1740A3F

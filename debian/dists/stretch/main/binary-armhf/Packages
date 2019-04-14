@@ -29,6 +29,32 @@ Description: Fomu package repository
  A collection of packages built for working with Fomu
  on a Raspberry Pi.
 
+Package: htpdate
+Version: 1.2.0-3.4
+Architecture: armhf
+Maintainer: Joao Eriberto Mota Filho <eriberto@debian.org>
+Installed-Size: 59
+Depends: lsb-base, init-system-helpers (>= 1.18~), libc6 (>= 2.4)
+Homepage: http://www.vervest.org/htp
+Priority: optional
+Section: net
+Filename: pool/main/h/htpdate/htpdate_1.2.0-3.4_armhf.deb
+Size: 18746
+SHA256: 8c196edd95c050cdabfd0a5b73b7379e9ab0e61015f5efba844b73d7cfa017dd
+SHA1: 96f2ca7929f9c2bf5d4bfe76212fc64f79edded2
+MD5sum: a87548fb0a6161e10de7fea81b3f7d80
+Description: HTTP based time synchronization tool
+ The  HTTP Time Protocol (HTP) is used to synchronize a computer's time with
+ web servers as reference time source. This program can be used instead
+ ntpdate or similar, in networks that has a firewall blocking the NTP port.
+ .
+ Htpdate will synchronize the computer time to Greenwich Mean Time (GMT),
+ using the timestamps from HTTP headers found in web servers response (the
+ HEAD method will be used to get the information).
+ .
+ Htpdate works through proxy servers. Accuracy of htpdate will be usually
+ within 0.5 seconds (better with multiple servers).
+
 Package: icestorm
 Version: 0.0.2-fa1c932452e8efe1dfcc6ff095e3f7130a7906b1
 Architecture: armhf
