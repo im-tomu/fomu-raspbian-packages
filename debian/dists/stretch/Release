@@ -1,28 +1,28 @@
 Origin: repo.fomu.im/debian
 Label: repo.fomu.im/debian
 Codename: stretch
-Date: Sun, 14 Apr 2019 01:55:12 UTC
+Date: Thu, 30 May 2019 08:30:19 UTC
 Architectures: armhf
 Components: main
 Description: Fomu Raspberry Pi support images
 MD5Sum:
- 5b7e6755fc51ab553f9dd27fe9a9afd4 4787 main/binary-armhf/Packages
- c0203c2d97aed2f11e6db95ced456a80 1987 main/binary-armhf/Packages.gz
+ 93f8d5618d9d38e2acb71ddc3204fe38 518 main/binary-armhf/Packages
+ 4ca86c0f167a10321e02de0a943b358d 382 main/binary-armhf/Packages.gz
  f51257227ba0028e2dc0057b110c596a 137 main/binary-armhf/Release
- 68b91206823e46a3538805299cdd1817 1241 main/source/Sources
- 40d0c5619a5a7ff28ad0538cbcacf85d 671 main/source/Sources.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  81ad74fa518f03b217ea9bb66105ac1a 138 main/source/Release
 SHA1:
- 715c59f46a28b37a8bbbbd6dd9456a0a2672a393 4787 main/binary-armhf/Packages
- 4a9c51492e53024ab502344447b3164b3ab23d93 1987 main/binary-armhf/Packages.gz
+ 0bb6d8ab9c122138ba5f51bf676a7eb9acfee5b1 518 main/binary-armhf/Packages
+ ec47079f11ff75f230ce4974f30c0c81491615c5 382 main/binary-armhf/Packages.gz
  c10a9d604b2544e3edc37e00e40fec48ad8648bc 137 main/binary-armhf/Release
- 042e10afed33e969b8ce8f348c5d933a5fc2cdad 1241 main/source/Sources
- ffb1c62e950d1c487e9162e7ba611177230c7f09 671 main/source/Sources.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  2612a6d294c9e82ff044b6f6b8858f9379368e1f 138 main/source/Release
 SHA256:
- c5319a571103aa975a200a376fe9446039d112450a16b64c92dab035f2498f06 4787 main/binary-armhf/Packages
- 83a31bc3632ddbcc1c516dc5fdb89b1912b8b10c764165975b5262385585eb4d 1987 main/binary-armhf/Packages.gz
+ 12f39e3cd522ab0c961977612872f73357c71be1a4cfc250936f0a7a68e0253c 518 main/binary-armhf/Packages
+ 2a8dc634ff3ef72ab2315abb5439dd7dcbb204801ab6d8d68ab4f508c7f05611 382 main/binary-armhf/Packages.gz
  3eac612bbb2fbddbf64eaf1499e546d99230dca567f26a4a695b2d25ea13d750 137 main/binary-armhf/Release
- 0ebc9b94cd76082efeddecf83ffdf587b83161fa326d475d6d661c1920bae847 1241 main/source/Sources
- 7e1dd42dbfd560aea2fe039556575819d8a9f3cb203e0f103a3e77af079196e4 671 main/source/Sources.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
  e5a3f2255f5852df3a340c0e4dd5d67733d20a7e31fe01b1d62cb868efd3046e 138 main/source/Release
