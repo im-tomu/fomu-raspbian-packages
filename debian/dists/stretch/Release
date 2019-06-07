@@ -1,27 +1,27 @@
 Origin: repo.fomu.im/debian
 Label: repo.fomu.im/debian
 Codename: stretch
-Date: Thu, 30 May 2019 08:30:19 UTC
+Date: Fri, 07 Jun 2019 05:27:45 UTC
 Architectures: armhf
 Components: main
 Description: Fomu Raspberry Pi support images
 MD5Sum:
- 93f8d5618d9d38e2acb71ddc3204fe38 518 main/binary-armhf/Packages
- 4ca86c0f167a10321e02de0a943b358d 382 main/binary-armhf/Packages.gz
+ 848f9f11ee9ca630996170ef394e1661 1051 main/binary-armhf/Packages
+ 5b2d3a6d61294f0a1f026701fc8a41ab 582 main/binary-armhf/Packages.gz
  f51257227ba0028e2dc0057b110c596a 137 main/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  81ad74fa518f03b217ea9bb66105ac1a 138 main/source/Release
 SHA1:
- 0bb6d8ab9c122138ba5f51bf676a7eb9acfee5b1 518 main/binary-armhf/Packages
- ec47079f11ff75f230ce4974f30c0c81491615c5 382 main/binary-armhf/Packages.gz
+ e72e29128226517e17f64f44b62555eadc87c4bf 1051 main/binary-armhf/Packages
+ 5ff5294b0ac6155f9b379686f7051b14731459bd 582 main/binary-armhf/Packages.gz
  c10a9d604b2544e3edc37e00e40fec48ad8648bc 137 main/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  2612a6d294c9e82ff044b6f6b8858f9379368e1f 138 main/source/Release
 SHA256:
- 12f39e3cd522ab0c961977612872f73357c71be1a4cfc250936f0a7a68e0253c 518 main/binary-armhf/Packages
- 2a8dc634ff3ef72ab2315abb5439dd7dcbb204801ab6d8d68ab4f508c7f05611 382 main/binary-armhf/Packages.gz
+ d05f65dba64787871e480857589532044a8082d0e8f555144386897e1196ac38 1051 main/binary-armhf/Packages
+ 0abefb9691cc619db3ab11ebef324ec4ee509912cb010b0d107d776f49469ead 582 main/binary-armhf/Packages.gz
  3eac612bbb2fbddbf64eaf1499e546d99230dca567f26a4a695b2d25ea13d750 137 main/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz

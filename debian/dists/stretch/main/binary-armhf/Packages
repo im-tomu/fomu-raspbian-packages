@@ -13,3 +13,17 @@ Description: Fomu SPI/Bitstream flashing for Raspberry Pi
  Fomu Flash lets you program a bitstream for an ICE40, or
  program the SPI flash attached to the board.
 
+Package: riscv-toolchain
+Version: 8.2.1-20180629-60-ge405fbb
+Architecture: armhf
+Maintainer: Sean Cross <sean@xobs.io>
+Priority: optional
+Section: base
+Filename: pool/main/r/riscv-toolchain/riscv-toolchain_8.2.1-20180629-60-ge405fbb_armhf.deb
+Size: 49054748
+SHA256: 2e92b2900695e2ffcd165e272d6c48df92bc46264c01d73b0e08beb532d4826f
+SHA1: c25636845a839160d5ddddd78fd77968ad15fdeb
+MD5sum: 30e0637b25cc4aed294f43504b6e06e2
+Description: riscv toolchain packaged for Fomu
+ This is an upstream build of riscv, specially packaged for Fomu.
+
