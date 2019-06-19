@@ -4,27 +4,27 @@ Hash: SHA256
 Origin: repo.fomu.im/debian
 Label: repo.fomu.im/debian
 Codename: stretch
-Date: Fri, 07 Jun 2019 09:46:06 UTC
+Date: Wed, 19 Jun 2019 13:53:23 UTC
 Architectures: armhf
 Components: main
 Description: Fomu Raspberry Pi support images
 MD5Sum:
- aaab90083b2694b7ff680ac638e9bd10 1063 main/binary-armhf/Packages
- 366566cb76b04705a3dd7bba4537fcc9 585 main/binary-armhf/Packages.gz
+ 9f7a41d2caa673ab589c35a3248a29d0 1063 main/binary-armhf/Packages
+ 1f6750a5b46ebd58d6b16453530cb31c 586 main/binary-armhf/Packages.gz
  f51257227ba0028e2dc0057b110c596a 137 main/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  81ad74fa518f03b217ea9bb66105ac1a 138 main/source/Release
 SHA1:
- 1f56fe37f93f3c549e5dd69cf1aff2397cc5e13c 1063 main/binary-armhf/Packages
- 0121ae8d28235c0c351b25d5f7260ed528395256 585 main/binary-armhf/Packages.gz
+ c6e855401635c64df83873e1f565d9c20349bbbd 1063 main/binary-armhf/Packages
+ e2386727c59abf1fe21bb340da74030192967712 586 main/binary-armhf/Packages.gz
  c10a9d604b2544e3edc37e00e40fec48ad8648bc 137 main/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  2612a6d294c9e82ff044b6f6b8858f9379368e1f 138 main/source/Release
 SHA256:
- 4dbb46f8e84806bbd0dd8184a29f7b75dcc3273b14b8b7cb8e4b3d3e299343c9 1063 main/binary-armhf/Packages
- fc4718609122ab214eaf98912db3e5ab96ec8fab613252f7c5566a2c5dddd2ed 585 main/binary-armhf/Packages.gz
+ a90199990439633e5c657f5f0f8c7aadd45cae6b18162e8be387f5e811f45107 1063 main/binary-armhf/Packages
+ 78c2ab80c58e818c8a16602b3ab7de63b688cf2b563047b55dfaae4367fea812 586 main/binary-armhf/Packages.gz
  3eac612bbb2fbddbf64eaf1499e546d99230dca567f26a4a695b2d25ea13d750 137 main/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
@@ -32,17 +32,17 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJc+jJfAAoJELq6PV2pIgEEvioP/RL58GExMqzh65SaDVDbZLC1
-cl7L3wnjxYq3mYyj2RdvcTBSu0Mlwl6TQMxZpI73At4mnJgY9XEhVFVlngdR/mcI
-W1iK2JBkJ0vXOaGOjQOuzxifGs2OiSVagLre2SCWN7/KjpGE2oZ8geN8ld2XVsk4
-EpfyN8z5mvheOeYwFdQLAAzObF49+ThAYcXzXseFY/pWUT3tTnlEXcuFHSD1X/Mn
-uDruLXfxuAkFuOXUixD4V1n1e2QUlixNLKeeJU5VRl5eZ+didydjn+wqvoTJgZ0I
-RU9bPDnjvE0SZswuErZ0mwULY3bCsbQErPDbwk4VbdVS1dSq0c4jQhXs0hOvYuGL
-jmel+xwmq8RSFG2X29W2AjiSgeFZE7TrUN330SHf1FZx/KRpRi0RdceQSZaA2a5G
-UOk5Ln5bmGPcP4+PGyTPGB9in8vCTeIA/RiFWy3Y1ry4m8i5qM9N+0DaEp2RgOrO
-u1Toko89BRsLNHa/JqZw6m0mZkzp+t4I4goCigDXB4oxZWrhZ7dSFLXRP89h9h7p
-JT1fdbA8klTv63G0SqdQiVYHrdykCXx5w/nn/ZVocwXH2A4g8fR3DRibP5mES3eN
-SEWrwdn5Emov/4EpjXeg60oDPN+ijIGC1K7MKCEt7P/bDiuMxyXC/b47EVJcJGRd
-IWe0nYr4b5PVAcnnnueF
-=stGG
+iQIcBAEBCAAGBQJdCj5VAAoJELq6PV2pIgEENq4P/1Fc71l3ZXRb39N2gUeG3GqR
+BSycPdOU42I6E0uPuGCde6YCjfoipy4FsapmaSNz1vhqg/r55xBrGy8VGNuJ72d4
+yvfPNxPhr6vDRmsVU+m9EAQLewb2PB5lUGrILLsRl0lr4w9UUGjL7OhhCS6JBDHl
+7ndDMc7auxP8wE9vEiz67Eb+oz6vpXYTkKlJMLFu8/006c8+VrBQ4mxzWCmKndoZ
+xB5GyII/7hKqw8iGPErLiN91io9WLJjuZvc1uKH/Jq8wNNjaXCO0UbauonAHezmO
+eABN5eVg9g2ziQJ/FmsdUIGxnejkr0fkp8PyowD+Yxruja289IRcEvwKENar8RC4
+Ix4b0kH+ePTN/Btk+3n+lTl9Vh0DKpPdM9rMN0F/N9gBb+giPMvfG/FY8JQR9mSZ
+n7kTp2kykNEqUu76fgz5Xac+iLC/m/I6mCgLEm855E1WJrNQUIdMvSzA34Yknyoc
+xreaPpvHb47mufwQeMaOIOQ9Y71/mpLhXJZAAOYnDKhXhc0S412Qh5QeHnOgdWVe
+n+/ojXHmXpYsXQiP4tlCDft5dBlOMuoDJsi6+kFTfH9f1vL+cdgReWbYL5yjZNDv
+4itQn9SwN8kCsPNQ8KHM6+SqceauoclbY9T9VhgHMTyoMrzvUMRkBHDZMsu7rD/a
+V+JyG5iVjguTvE2ty7ry
+=hOp5
 -----END PGP SIGNATURE-----

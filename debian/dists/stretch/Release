@@ -1,27 +1,27 @@
 Origin: repo.fomu.im/debian
 Label: repo.fomu.im/debian
 Codename: stretch
-Date: Fri, 07 Jun 2019 09:46:06 UTC
+Date: Wed, 19 Jun 2019 13:53:23 UTC
 Architectures: armhf
 Components: main
 Description: Fomu Raspberry Pi support images
 MD5Sum:
- aaab90083b2694b7ff680ac638e9bd10 1063 main/binary-armhf/Packages
- 366566cb76b04705a3dd7bba4537fcc9 585 main/binary-armhf/Packages.gz
+ 9f7a41d2caa673ab589c35a3248a29d0 1063 main/binary-armhf/Packages
+ 1f6750a5b46ebd58d6b16453530cb31c 586 main/binary-armhf/Packages.gz
  f51257227ba0028e2dc0057b110c596a 137 main/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  81ad74fa518f03b217ea9bb66105ac1a 138 main/source/Release
 SHA1:
- 1f56fe37f93f3c549e5dd69cf1aff2397cc5e13c 1063 main/binary-armhf/Packages
- 0121ae8d28235c0c351b25d5f7260ed528395256 585 main/binary-armhf/Packages.gz
+ c6e855401635c64df83873e1f565d9c20349bbbd 1063 main/binary-armhf/Packages
+ e2386727c59abf1fe21bb340da74030192967712 586 main/binary-armhf/Packages.gz
  c10a9d604b2544e3edc37e00e40fec48ad8648bc 137 main/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  2612a6d294c9e82ff044b6f6b8858f9379368e1f 138 main/source/Release
 SHA256:
- 4dbb46f8e84806bbd0dd8184a29f7b75dcc3273b14b8b7cb8e4b3d3e299343c9 1063 main/binary-armhf/Packages
- fc4718609122ab214eaf98912db3e5ab96ec8fab613252f7c5566a2c5dddd2ed 585 main/binary-armhf/Packages.gz
+ a90199990439633e5c657f5f0f8c7aadd45cae6b18162e8be387f5e811f45107 1063 main/binary-armhf/Packages
+ 78c2ab80c58e818c8a16602b3ab7de63b688cf2b563047b55dfaae4367fea812 586 main/binary-armhf/Packages.gz
  3eac612bbb2fbddbf64eaf1499e546d99230dca567f26a4a695b2d25ea13d750 137 main/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
