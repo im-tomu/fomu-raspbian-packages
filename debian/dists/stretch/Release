@@ -1,27 +1,27 @@
 Origin: repo.fomu.im/debian
 Label: repo.fomu.im/debian
 Codename: stretch
-Date: Wed, 19 Jun 2019 14:17:10 UTC
+Date: Wed, 19 Jun 2019 15:14:41 UTC
 Architectures: armhf
 Components: main
 Description: Fomu Raspberry Pi support images
 MD5Sum:
- 799975ea075c7622d65196b6da9c4957 4785 main/binary-armhf/Packages
- 00787774b6a257ed368912727bf6e6d8 1981 main/binary-armhf/Packages.gz
+ dd8ca83065cda1f9409a833a1ce1a934 4789 main/binary-armhf/Packages
+ f1aa55dd9f7756c7ab97ab08f668d178 1979 main/binary-armhf/Packages.gz
  f51257227ba0028e2dc0057b110c596a 137 main/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  81ad74fa518f03b217ea9bb66105ac1a 138 main/source/Release
 SHA1:
- 6a93d64b3c33b17918e3fa5fc71c61b0c4788dcf 4785 main/binary-armhf/Packages
- 02a426edc150a92e0f51bc61d22053e07d3147bb 1981 main/binary-armhf/Packages.gz
+ 2f84b5c13314fcf058b57a4b4cd16225f8f4e81f 4789 main/binary-armhf/Packages
+ 2c7177a5a0c2ad31b18c3d5b8a47b0e70498c400 1979 main/binary-armhf/Packages.gz
  c10a9d604b2544e3edc37e00e40fec48ad8648bc 137 main/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  2612a6d294c9e82ff044b6f6b8858f9379368e1f 138 main/source/Release
 SHA256:
- 0185e1ea07cc5500b829e0b2bdb6e2e3d518ec622cf872a8f5d55a4561222824 4785 main/binary-armhf/Packages
- 29229c0293cf1f11f8da97482b5e6991c99a3168ddfe03a4a6b7b805c1a533a6 1981 main/binary-armhf/Packages.gz
+ e92491d5d17b4065e35c50e10997aba9a11a849a6aeaff90b9abd73616808b1b 4789 main/binary-armhf/Packages
+ f6c0fa9a37ab6621ed8bbef3ff759763c407bf0e604f713e21d6ce9829ea91bf 1979 main/binary-armhf/Packages.gz
  3eac612bbb2fbddbf64eaf1499e546d99230dca567f26a4a695b2d25ea13d750 137 main/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz

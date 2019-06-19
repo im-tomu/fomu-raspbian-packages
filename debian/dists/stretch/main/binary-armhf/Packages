@@ -98,16 +98,16 @@ Description: nextpnr-ice40 packaged for Fomu
  This is an upstream build of nextpnr, specially packaged for Fomu.
 
 Package: riscv-toolchain
-Version: 8.2.3-before-fsf-gdb-18-ge405fbb
+Version: 8.2.3.1-before-fsf-gdb-18-ge405fbb
 Architecture: armhf
 Maintainer: Sean Cross <sean@xobs.io>
 Priority: optional
 Section: base
-Filename: pool/main/r/riscv-toolchain/riscv-toolchain_8.2.3-before-fsf-gdb-18-ge405fbb_armhf.deb
-Size: 33827660
-SHA256: b1fefc5fa994b5623536584bd041b68bbd93a93f300b6979a6436b1aa0459d27
-SHA1: 3d3e8daff2176edfbf5c0a13ecc9b8e21e944629
-MD5sum: e236e780cf8f7a7f57c6b223a758dd9a
+Filename: pool/main/r/riscv-toolchain/riscv-toolchain_8.2.3.1-before-fsf-gdb-18-ge405fbb_armhf.deb
+Size: 34855410
+SHA256: 5b543c99e3bbaa9597afa1211a5f68872a7e39e85e56a5370adf863b55a513c1
+SHA1: adc11f4c4062865ee6f92709ca1c5386dcccfeaa
+MD5sum: fef0f013069f9554b63d2c47b5df32b0
 Description: riscv toolchain packaged for Fomu
  This is an upstream build of riscv, specially packaged for Fomu.
 
