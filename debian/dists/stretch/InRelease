@@ -4,7 +4,7 @@ Hash: SHA256
 Origin: repo.fomu.im/debian
 Label: repo.fomu.im/debian
 Codename: stretch
-Date: Wed, 19 Jun 2019 14:00:24 UTC
+Date: Wed, 19 Jun 2019 14:17:10 UTC
 Architectures: armhf
 Components: main
 Description: Fomu Raspberry Pi support images
@@ -32,17 +32,17 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQIcBAEBCAAGBQJdCj/5AAoJELq6PV2pIgEEU7YP/3urADU21NflK1fmn0dBZoZX
-HOlbWuwgtWdp5KARzlsGEUlvRCnTsrVFl4ThZuYTwxwEAnez0L9/WzCFYXomSjNF
-PeNcqC5Jv0wSkEHDbgtD6OR/A14rnVQUn9bace5Ysg6u2cBfakhpdfRSW1NSpwJP
-89D4V0J+QbftxGivRLiyZQEy2S5fDr8FzogiLSAfRxmXHFmiGJHvsqltKp6mtBQ3
-ADlZRXiM9XyDKo6gvpvVdrZTvaIvbW6I6rFkGCZEvtF/fbbHpFlh39EuMumQKJnx
-rfU9DVUroOWpiv9AbcM5VveqVnvAssLoweOqilNL+FOnjrjWKgCBIErt3Z3uKiSv
-SdwqxFTMjt0vtsDuOxGa4gBGGRaYOZIjpo4eMCB6OCApgL4+HKphmASkLfmW2iPw
-ma68bmgIC0UX5W6tbO7QfH70cHk4fTnB7MPcBYUAw+wL/an00ZtShoRpsmiJyeOf
-dxcEp3XcnO1+frRptmJpg8ElYa88ovyii2baKYsy3djcD+ax30WlOy00n6bUzSEb
-o2u4WUBJ86gE35qA/aJXBge94HE6vGgxun5OUnXQWgRHws0lnDTaFCxQ/J+CJsqv
-4frgVLAOop998K7KiD47piEu/+qMw/Pk7ivxe1oa+HrgOqMUasBlrAahsGXunjou
-3sRSTUE37xnZnrGhW60A
-=F+2V
+iQIcBAEBCAAGBQJdCkPmAAoJELq6PV2pIgEEajIQALTUbNYjYvbO039L7G3LWkNq
+SUk+V9oq0WPdZ/S8KQKHXoEgYBaQMnyOGhNpRatk/nOrATZK6dyiiosfzj8a+xlV
+6DRf50y9Umzov7f1sA1SykBVC2U6HfqYHZWGVQ08OBGM6srT1aW2BtTBvOscL74q
+dkP3/BWlx81KmwqosFaYEkV2ZApBQWBKZojloTMTH2UdrdNqpVvzYPEGu8ujt3+J
+6ajHrrFosuWqRzXOqflG0PgpmYvG2yalUDtB0ARGxW9LfrfRgu6AwipTfKHzEUZZ
+ZjhPckBRnvK7tCnBDsHycc+L86RPcMkI31tlaerEz2x/i9a9IiKaIzF9z9Z37/2J
+jVBnenflZGFtfV1oZGxTJ36Gd+gldiisvddFjbqUIby9/xwuFjw7iCKIm3oUTbAJ
+7PCP4U8XL/yJKsCT0H92b9xEXhSqVLy56/bz7nQP6On0eowkQxrDAiQcfiDIBPXZ
+lWPfvLA7j7z2/RDk0uyA6/lMNwNNG3mWwCk//SpYI1vKnjrfjSP2kd5SWMEdnrtA
+hWr6239H3kVvelLwlFzvrHeja4h5Q2tE/hAY1MAf1aqAALxb7tHzS43+r/2GocXG
+1t39dZgNiMdYC1Iv/r7lBDLhjQHyGDCbtiXg5NV+pF2baIOtaZQAmObprA0erLBi
+CIUQiN3oBLKVTVwz6Fdh
+=8Ocy
 -----END PGP SIGNATURE-----
