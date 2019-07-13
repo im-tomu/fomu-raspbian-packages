@@ -1,14 +1,14 @@
 Package: fomu-flash
-Version: 1.4
+Version: 1.4.1
 Architecture: armhf
 Maintainer: Sean Cross <sean@xobs.io>
 Priority: optional
 Section: base
-Filename: pool/main/f/fomu-flash/fomu-flash_1.4_armhf.deb
-Size: 36492
-SHA256: 95086dda4d9890563006f6bdf952131c748fdd72edab497cad1c02e7a518092b
-SHA1: d80601b016051cc2a8683cd6ea883e2022164c06
-MD5sum: e3b77997b9cb1e12017d71c0ef8cf821
+Filename: pool/main/f/fomu-flash/fomu-flash_1.4.1_armhf.deb
+Size: 37680
+SHA256: 8a57c6cf6e601e8f2811b53f1c3128d8a56f93c53971deaeecf04d2710fd4703
+SHA1: 8fcbf4ba27ec41bc33aff1d4f7c05359ba51498e
+MD5sum: 99c4f97f79b5869f98e4eadccd0bf4a3
 Description: Fomu SPI/Bitstream flashing for Raspberry Pi
  Fomu Flash lets you program a bitstream for an ICE40, or
  program the SPI flash attached to the board.
